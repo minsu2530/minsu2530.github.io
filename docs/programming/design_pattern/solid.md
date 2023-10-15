@@ -25,6 +25,9 @@ GO를 가지고 [SOLID]를 설명한 글의 번역본입니다.
 
 SOLID는 각 원칙의 앞글자를 따서 만든 단어입니다.
 - S : Single Responsibility Principle (SRP)
+- O : Open-Closed Principle (OCP)
+- L : Liskov Substitution Principle (LSP)
+- D : Dependency Inversion Principle (DIP)
 
 이번 블로그 포스트에서는, SOLID의 각 원칙들의 의미에 대해 자세히 살펴보고, 그것들이 어떻게 적용될 수 있는지 GO언어로 알아볼것입니다. SOLID design pattern에 대해 이해하는것은 high-quality code를 작성하는데 있어 매우 중요한 부분입니다. 이제부터 하나씩 알아보도록 하겠습니다.
 
